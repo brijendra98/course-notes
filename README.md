@@ -1,39 +1,31 @@
-## Welcome to GitHub Pages
+# Course Notes
 
-You can use the [editor on GitHub](https://github.com/brijendra98/course-notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Spring 2018
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### MUSIC 140
 
-[this](CS241/LEC002.md)
+[Lecture 1](MUSIC140/LEC001.md)
 
-### Markdown
+[Lecture 2](MUSIC140/LEC002.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Lecture 3](MUSIC140/LEC003.md)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### CS 241
 
-- Bulleted
-- List
+[Lecture 2](CS241/LEC002.md)
 
-1. Numbered
-2. List
+[Lecture 3](CS241/LEC003.md)
 
-**Bold** and _Italic_ and `Code` text
+[Lecture 4](CS241/LEC004.md)
 
-[Link](url) and ![Image](src)
-```
+[Lecture 5](CS241/LEC005.md)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Lecture 6](CS241/LEC006.md)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brijendra98/course-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### CS 251
 
-### Support or Contact
+[Lecture 2](CS251/LEC002)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Lecture 3](CS241/LEC003)
