@@ -10,6 +10,8 @@
 
 [Lecture 3](MUSIC140/LEC003.md)
 
+[Lecture 4](MUSIC140/LEC004.md)
+
 
 ### CS 241
 
@@ -22,6 +24,8 @@
 [Lecture 5](CS241/LEC005.md)
 
 [Lecture 6](CS241/LEC006.md)
+
+[Lecture 7](CS241/LEC007.md)
 
 
 ### CS 251
