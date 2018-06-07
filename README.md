@@ -12,6 +12,8 @@
 
 [Lecture 4](MUSIC140/LEC004.md)
 
+[Lecture 5](MUSIC140/LEC005.md)
+
 
 ### CS 241
 
